@@ -11,7 +11,7 @@ public class Main {
         };
 
         Bicycle[] bicycles = {
-                new Bicycle("Aist", 2),
+                new Bicycle("Aist", 3),
                 new Bicycle("Kama", 2),
         };
         Service ServiceStation = new ServiceStation();
